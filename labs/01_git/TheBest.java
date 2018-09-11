@@ -5,9 +5,9 @@ public class TheBest {
 
 	PersonInfo1.displayFr();
 
-        
-    PersonInfo4.displayFr();
-	PersonInfo2.displayFr();
+        PersonInfo4.displayFr();
+		PersonInfo2.displayFr();
+		PersonInfo3.displayFr();
 
     }
 }
